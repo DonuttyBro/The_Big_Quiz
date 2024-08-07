@@ -1,0 +1,101 @@
+Genre,Question,Answer,Incorrect1,Incorrect2,Incorrect3
+Horror,What Species is the monster from Alien? ,Xenomorph,Predator,Martian,Clown
+Horror,Who is the killer in the original Friday the 13th? ,Pamela Voorhees,Jason Voorhees,Michael Myers,Freddy Krueger
+Horror,Who were the killers in the first Scream movie? ,Billy Loomis and Stu Macher,Sydney Prescott and Billy Loomis,Randy Meeks and Stu Macher,Sydney Prescott and Randy Meeks
+Horror,What is the name of the main character in Scream 1-4? ,Sydney Prescott,Randy Meeks,Gale Weathers,Dewey Riley
+Horror,Who is the actor that plays Freddy Krueger in the original Nightmare on Elm Street? ,Robert Englund,Kane Hodder,Wes Craven,Kevin Bacon
+Horror,What is Chucky's real name? ,Charles Lee Ray,Charleston Entertainment Cheese the 3rd,Charlie Gray,Chuckles
+Horror,What movie series is Pinhead from? ,Hellraiser,Tremors,Nightmare on Elm Street,The Cube
+Horror,What game series is The Umbrella Corporation from? ,Resident Evil,Little Nightmares,Outlast,Amnesia
+Horror,What is the name of the character you play as in Little Nightmares? ,Six,Mono,Four,Chrome
+Horror,How many predators are in the original Predator? ,One,Two,Three,None
+Horror,How many killers were in the first season of Scream: The TV Series? ,Two,One,Three,Four
+Horror,Who is the killer in Halloween? ,Michael Myers,Jason Voorhees,Freddy Krueger,Ghostface
+Horror,What sort of doll is Chucky? ,Good Guy Doll,Bad Guy Doll,Barbie Doll,Not actually a real doll
+Horror,What movie franchise is the Graboid from? ,Tremors,Alien,Predator,Slither
+Horror,Who do you play as in Bendy and the Ink Machine? ,Henry Stein,Joey Drew,Bendy,Boris
+Horror,What is the name of the Yellow Rabbit in Five Night's at Freddy's 3? ,Springtrap,Freddy,Bonnie,Springlock
+Horror,Who does Tony Todd play in The Final Destination movies? ,The Coroner,Death,Freddy Crews,Background Character
+Horror,What is Leatherface's mask made out of? ,Human faces,Leather,Fabric,Plastic
+Horror,What horror movie character has Jason Voorhees fought in a movie? ,Freddy Krueger,Predator,Xenomorph,Chucky
+Horror,What horror Monster fights the predator in AVP? ,Xenomorph,Martian,Brightburn,The Thing
+Horror,Which actress plays the lead in The Menu?,Anya Taylor-Joy,Melissa Barrera,Sosie Bacon,Mia Goth
+Horror,What is the name of the murderous clown from IT?,Pennywise,Bibbo,Art the Clown,Plucky
+Horror,What are the zombie-like creatures in The Evil Dead franchise called?,Deadites,Zombies,Walkers,The Undead
+Horror,Which Saw movie is Saw 3D?,The 7th,The 3rd,The 8th,The 6th
+Horror,What is the name of the tool you use in Poppy Playtime?,The Grabpack,The Handipack,The Grab Cannon,The Hand Cannon
+Video Games,What FPS game are Crypto and Wattson from? ,Apex Legends,Doom(2016),Bioshock,Titanfall 2
+Video Games,What season of Fortnite was Deadpool Available in? ,Chapter 2 Season 2,Chapter 1 Season 2,Chapter 2 Season 8,Chapter 3 Season 1
+Video Games,What game series is Ethan Winters from? ,Resident Evil,Bioshock,Doom,Outlast
+Video Games,What is DBD short for? ,Dead by Daylight,Dual Before Death,Deadly Blow Dealt,Drink Before Death
+Video Games,"What game are Monika, Natsuki, Yuri, and Sayori from? ",Doki Doki Literature Club,Yandere Simulator,Silent Hill,Fran Bow
+Video Games,What genre of game is Beat Saber? ,Rhythm,Action / Adventure,Horror,Fighting
+Video Games,What is COD? ,Call of Duty,Chains of Despair,Clear Out Dorms,Cat on Door
+Video Games,How many characters do you play as in Detroit: Become Human?,3,2,1,4
+Video Games,What is NOED? ,No One Escapes Death,Never Open Exit Doors,New Opponent Entering Dropzone,No Ordering Evil Dead
+Video Games,What year did the Doom Eternal come out? ,2020,2021,2019,2018
+Video Games,What is the final boss in Doom Eternal? ,The Icon of Sin,Spider Mastermind,Samuel Hayden,Khan Maykr
+Video Games,In Minecraft what block is a barrier at the bottom of the world? ,Bedrock,Invisible Wall,Stone,No Barrier
+Video Games,What genre is First Class Trouble? ,Indie,Horror,FPS,Action / Adventure
+Video Games,What game series is Dokkaebi from? ,Rainbow Six,Call of Duty,Battlefield,Titanfall
+Video Games,What game refers to playable characters as operators? ,Rainbow Six Siege,Apex Legends,Fortnite,Valorant
+Video Games,In Doom (2016) you can perform _____ kills on demons.,Glory,Insta,Mercy,Over
+Video Games,What does FNAF stand for? ,Five Nights at Freddy's,Four Nights at Fitzgerald's,Four Nights at Freddy's,Five Nights at Fitzgerald's
+Video Games,What is Genji from? ,Overwatch,Apex Legends,Fortnite,Rainbow Six Siege
+Video Games,What game is the R-201 from? ,Titanfall 2,Apex Legends,Fortnite,Doom
+Video Games,What Batman Arkham game does Joker die in? ,Batman Arkham City,Batman Arkham Origins,Batman Arkham Knight,Batman Arkham Asylum
+Video Games,What hair feature do all Danganronpa protagonists share?,An Ahoge,Spiky Hair,A Cap,Brown Hair
+Video Games,By which name is the protagonist of Persona 4 most commonly reffered to as?,Yu Narukami,Makoto Yuki,Ren Amamiya,Yosuke Hanamura
+Video Games,Who do you play as in the original Ace Attorney Trilogy?,Phoenix Wright,Miles Edgeworth,Apollo Justice,Ryunosuke Naruhodo
+Video Games,What is the name of the robot cat in Hi-Fi Rush?,808,CNMN,BB8,SW1TCH
+Video Games,In the original Mortal Kombat who was Sub-Zero?,Bi-Han,Kuai Liang,Hanzo Hasashi,Tomas Vrbada
+TV / Movies,Who is the main character in Alien? ,Ellen Ripley,The Xenomorph,Arthur Dallas,Ash
+TV / Movies,What is the name of the Resident Evil movie released in 2021? ,Resident Evil: Welcome to Raccoon City,Resident Evil: The Final Chapter,Resident Evil,Resident Evil: Afterlife
+TV / Movies,What year did the first Hunger Games movie come out? ,2012,2010,2011,2013
+TV / Movies,Who played Spiderman in the original film trilogy? ,Tobey Maguire,Andrew Garfield,Sam Raimi,Tom Holland
+TV / Movies,What is the name of the paper company in The Office U.S? ,Dunder Mifflin Paper Company,Michael Scott Paper Corporation,Dwight Schrute Paper Company,Jim Halpert Paper Corporation
+TV / Movies,What animal is Gumball in The Amazing World of Gumball? ,Cat,Hampster,Dog,Fish
+TV / Movies,Which South Park character wears a red jacket and blue beanie? ,Cartman,Kenny,Stan,Kyle
+TV / Movies,What year did Two and a Half Men premier?,2003,2002,2004,2001
+TV / Movies,What is the name of the car in the Back to the Future movies?,DMC DeLorean,Toyata Camry Solara,Volkswagon Corrado,Honda Crosstour
+TV / Movies,In the MCU what is Doctor Strange's real name?,Stephen Strange,Steven Strange,Steffan Strange,Steven Unusual
+TV / Movies,What is the name of Fry's robot best friend in Futurama?,Bender,Mr Roboto,Belcher,Beeper
+TV / Movies,Who is the villain protagonist of American Psycho?,Patrick Bateman,Norman Bates,Patrick Bates,Norman Bateman
+TV / Movies,Who is Ross' love interest in Friends?,Rachel Green,Phoebe Buffay,Monica Geller,No love interest
+TV / Movies,What planet did Luke Skywalker train with Yoda on in Star Wars?,Dagobah,Hoth,Tatooine,Naboo
+TV / Movies,What character in The Bee Movie said the line Ya Like Jazz?,Barry B Benson,Ken,Vanessa Bloome,Adam Flayman
+TV / Movies,What character did Heath Ledger play in The Dark Knight?,Joker,Batman,Jim Gordon,Two-Face
+TV / Movies,What is the name of the youngest child in the Simpsons?,Maggie Simpson,Bart Simpson,Lisa Simpson,Milhouse Simpson
+TV / Movies,What is the name of Morty's sister in Rick and Morty?,Summer Smith,Autumn Smith,Winter Smith,Spring Smith
+TV / Movies,Who is the oldest sibling in The Haunting of Hill House?,Steven Crain,Luke Crain,Eleanor Crain,Theodora Crain
+TV / Movies,What is the name of the taxi driver in Deadpool?,Dopinder,Weasel,Bob,Buck
+TV / Movies,Who plays Carver in Bullet Train?,Ryan Reynolds,Brad Pitt,Channing Tatum,Ryan Gosling
+TV / Movies,What was the alien in Nope named?,Jean Jacket,Lucky,Gordy,Ghost
+TV / Movies,What's the name of the pizza place in Toy Story?,Pizza Planet,Pizza Pizza,Pizza Papa's,Pizza Palace
+TV / Movies,What is the name of Bruce Campbell's character in Burn Notice?,Sam Axe,Michael Westen,Jesse Porter,Jason Bly
+TV / Movies,What is Aoi Todo's ability in Jujutsu Kaisen?,Boogie Woogie,Infinity,Ten Shadows Technique,Overtime
+General,Where would you be if you were standing on the Spanish Steps?,Rome,Venice,Piza,Naples
+General,Which of the following has the highest life expectancy?,Hong Kong,Japan,Norway,Switzerland
+General,What character have both Robert Downey Jr. and Benedict Cumberbatch played?,Sherlock Holmes,Iron Man,Dr Dolittle,The Grinch
+General,What is a group of pandas known as?,An Embarressment,A Murder,A Horde,A Stampede
+General,What Netflix show had the most streaming views in 2021?,Squid Game,Queen's Gambit,Stranger Things,Umbrella Academy
+General,What is a group of crows called?,A Murder,A Flock,A Horde,An Embaressment
+General,Which is the only body part that is fully-grown from birth?,Eyes,Ears,Mouth,Nose
+General,What is a cod?,A Fish,A Game,A Fruit,A Fishing Tool
+General,What is acrophobia the fear of?,Flying,Spiders,Long Words,The Circus
+General,How many hearts does an octopus have?,3,2,1,0
+General,What is anatidaephobia the fear of?,A Duck or Goose is Watching,Long Words,Death,The Circus
+General,What is ephebiphobia the fear of?,Adolescents or Teenagers,Spiders,Water,Enclosed Spaces
+General,Where is the strongest human muscle located?,Jaw,Ears,Tongue,Nose
+General,On what continent would you find the world's largest desert?,Antarctica,Africa,Asia,North America
+General,Which country features a shipwreck on its national flag?,Bermuda,Barbados,Djibouti,Eritrea
+General,Pink Ladies and Granny Smiths are types of what fruit?,Apples,Pears,Peaches,Oranges
+General,What was the old name for a Snickers bar before it changed in 1990?,Marathon,Snackers,Delight,Snaps
+General,Which colour pill does Neo swallow in The Matrix?,Red,Blue,Green,None
+General,A DNA molecule is described as being what shape?,Double Helix,Helix,Cylinder,Triangular Prism
+General,What is the largest animal on the planet?,Blue Whale,Elephant,Giraffe,Ant
+General,What parody religion worships The Flying Spaghetti Monster?,Pastafarianism,Dudeism,Dinkoism,Haruhiism
+General,What anime has the most episodes?,Sazae-San,One Piece,Dragon Ball,Pokemon
+General,What was the first Summer Blockbuster?,Jaws,One Flew Over the Cuckoo's Nest,The Rocky Horror Picture Show,Dog Day Afternoon
+General,What element is represented with Sn on the Periodic Table?,Tin,Gold,Silver,Selenium
+General,What real world event is the boook The Crucible based on?,The Salem Witch Trials,The Eruption of Mount Vesuvius,World War 1,The Raiding of Area 51
