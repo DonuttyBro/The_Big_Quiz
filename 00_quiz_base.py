@@ -174,8 +174,8 @@ class Rounds:
             self.error_label.config(fg="#004C00")
             self.question_amount.config(bg="#FFFFFF")
             total_questions=self.question_amount.get()
-            Play(self)
             self.rounds_gui.destroy()
+            Play(self)
 
         
 
@@ -192,6 +192,8 @@ class Play:
         
         button_fg = "#FFFFFF"
         button_font = ("Arial", "13", "bold")
+
+        #self.get_question()
 
         self.play_gui = Toplevel()
         self.play_gui.iconbitmap("The Big Quiz\Quiz_Icon.ico")
@@ -248,11 +250,11 @@ class Play:
 
             random.shuffle(answer_list)
 
-            guess = 
+            #guess = 
 
-            if guess == answer:
+            #if guess == answer:
                 
-            elif guess != answer:
+            #elif guess != answer:
                 
             rounds_played += 1
             all_questions.remove(current_question)
